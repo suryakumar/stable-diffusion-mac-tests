@@ -3,3 +3,4 @@ huggingface_hub
 'diffusers[torch]'
 fastcore
 transformers
+fastai
