@@ -1,0 +1,5 @@
+diffusers
+huggingface_hub
+'diffusers[torch]'
+fastcore
+transformers
