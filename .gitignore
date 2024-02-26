@@ -1,7 +1,7 @@
 # local files
 testing.ipynb
 .env
-
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
